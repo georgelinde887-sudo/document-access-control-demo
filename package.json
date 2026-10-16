@@ -1,0 +1,21 @@
+{
+  "name": "document-access-control-demo",
+  "version": "1.0.0",
+  "description": "Reference implementation for secure document access control featuring HMAC-SHA256 signed URLs, expiring tokens, view counters, and revocation kill-switches.",
+  "main": "src/token-manager.js",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "access-control",
+    "signed-urls",
+    "hmac-sha256",
+    "document-security",
+    "token-revocation",
+    "secure-sharing",
+    "sendnow"
+  ],
+  "author": "SendNow Open Source Team <opensource@sendnow.live>",
+  "license": "MIT"
+}

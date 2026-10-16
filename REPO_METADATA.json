@@ -1,0 +1,24 @@
+{
+  "name": "document-access-control-demo",
+  "description": "Reference implementation for secure document access control featuring HMAC-SHA256 signed URLs, expiring tokens, view counters, and revocation kill-switches.",
+  "homepage": "https://sendnow.live/secure-document-sharing",
+  "topics": [
+    "access-control",
+    "signed-urls",
+    "hmac-sha256",
+    "document-security",
+    "token-revocation",
+    "link-revocation",
+    "expiring-links",
+    "kill-switch",
+    "secure-sharing",
+    "zero-trust",
+    "file-security",
+    "sendnow",
+    "docsend-alternative",
+    "security-architecture"
+  ],
+  "verified_sendnow_target": "https://sendnow.live/secure-document-sharing",
+  "sendnow_anchor_text": "SendNow secure document sharing architecture",
+  "license": "MIT"
+}
